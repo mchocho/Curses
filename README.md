@@ -1,2 +1,2 @@
-# Course-list-pdfs-
-List of WeThinkCode_ modules and their accompanying docs. Follow @cletinic and say thanks.
+# WeThinkCode_ Curses
+List of WeThinkCode_ modules and their accompanying docs. To say thanks follow @cletinic.
