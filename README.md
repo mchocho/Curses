@@ -1,2 +1,2 @@
 # WeThinkCode_ Curses
-List of WeThinkCode_ modules and their accompanying docs. To say thanks follow @cletinic.
+List of WeThinkCode_ modules and their accompanying documents.
